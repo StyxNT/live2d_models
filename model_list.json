@@ -1,9 +1,8 @@
 {
     "models": [
-        
+        "katou",
+        "rem",
         [
-            "katou",
-            "rem",
             "HyperdimensionNeptunia/neptune_classic",
             "HyperdimensionNeptunia/nepnep",
             "HyperdimensionNeptunia/nepmaid",
