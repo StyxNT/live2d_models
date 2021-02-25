@@ -21,10 +21,15 @@
             "HyperdimensionNeptunia/nepgearswim",
             "HyperdimensionNeptunia/histoire",
             "HyperdimensionNeptunia/histoirenohover"
+        ],
+        [
+            "haru/01",
+            "haru/02"
         ]
     ],
     "messages": [
-        "Nep! Nep! 超次元游戏：海王星 系列"
+        "Nep! Nep! 超次元游戏：海王星 系列",
+        "haru"
     ]
  
 }
