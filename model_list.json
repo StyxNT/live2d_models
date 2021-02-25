@@ -1,5 +1,6 @@
 {
     "models": [
+        "hibiki",
         [
             "HyperdimensionNeptunia/neptune_classic",
             "HyperdimensionNeptunia/nepnep",
@@ -28,6 +29,7 @@
         ]
     ],
     "messages": [
+        "这里是Hibiki!",
         "Nep! Nep! 超次元游戏：海王星 系列",
         "haru"
     ]
